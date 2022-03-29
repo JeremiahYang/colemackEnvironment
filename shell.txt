@@ -4,3 +4,6 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 choco install git vscode nodejs neovim potplayer wechat lazygit 
 cd C:\Users\admin\AppData\Local
 git clone https://github.com/JeremiahYang/nvim.git
+cd C:\Users\admin\Desktop
+git clone https://github.com/JeremiahYang/colemackEnvironment.git
+cd colmackE
