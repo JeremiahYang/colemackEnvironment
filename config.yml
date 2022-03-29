@@ -1,0 +1,16 @@
+keybinding:
+  universal:
+   prevItem-alt: 'u' # go one line up
+   nextItem-alt: 'e' # go one line down
+   scrollLeft: '<left>' # scroll left within list view
+   scrollRight: '<right>' # scroll right within list view
+   prevBlock-alt: '<up>' # goto the previous block / panel
+   nextBlock-alt: '<down>' # goto the next block / panel
+   nextMatch: 'k' # n to k
+   prevMatch: 'K'
+   scrollUpMain-alt1: 'U' # main panel scroll up
+   scrollDownMain-alt1: 'E' # main panel scroll down
+   edit: 'h' # e to h
+  commits:
+   moveDownCommit: '<c-e>' # move commit down one
+   moveUpCommit: '<c-u>' # move commit up one
