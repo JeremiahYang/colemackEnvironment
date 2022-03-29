@@ -6,4 +6,5 @@ cd C:\Users\admin\AppData\Local
 git clone https://github.com/JeremiahYang/nvim.git
 cd C:\Users\admin\Desktop
 git clone https://github.com/JeremiahYang/colemackEnvironment.git
-cd colmackE
+cd ./colemackEnvironment
+cp ./config.yml C:\Users\admin\AppData\Roaming\lazygit
